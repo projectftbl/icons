@@ -1,3 +1,3 @@
-### @ftbl/icons
+### @recipher/icons
 
 JSX SVG Icons
